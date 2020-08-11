@@ -1,0 +1,2 @@
+893d454b8be90ef90c1e7cadaecc3e49
+https://api.openweathermap.org/data/2.5/
